@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Hi!"
+  name: "从现在开始"
   text: "方向：电气工程+"
   tagline: "交叉探索：电气、人工智能与物理世界的交汇"
 
