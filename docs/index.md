@@ -13,13 +13,13 @@ hero:
       link: /ee-ai/
     - theme: alt
       text: 浏览全部
-      link: #features-anchor
+      link: '#features-anchor'
 
 features:
   - title: Electric Engineering + AI
     details: 探索物理信息神经网络 (PINN)、强化学习 (RL) 在电力系统潮流计算、调度与电机控制中的融合
     link:/ee-ai/
-    linktext: 进入探索
+    linkText: 进入探索
 
 ---
 
