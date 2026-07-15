@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Zhengyi Yang 的学术空间"
-  text: "电气工程+"
+  name: "Hi!"
+  text: "方向：电气工程+"
   tagline: "交叉探索：电气、人工智能与物理世界的交汇"
 
   actions:
