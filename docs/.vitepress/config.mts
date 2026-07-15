@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/MyBlog/',
   title: "AI4PowerSystem",
   description: "电气工程与人工智能的物理融合探索",
   themeConfig: {
